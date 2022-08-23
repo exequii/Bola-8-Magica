@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bola 8 Magica", "Bola 8 Magica\Bola 8 Magica.csproj", "{EE176EDA-52C2-4A88-8E6B-2DFF7A5362AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE176EDA-52C2-4A88-8E6B-2DFF7A5362AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE176EDA-52C2-4A88-8E6B-2DFF7A5362AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE176EDA-52C2-4A88-8E6B-2DFF7A5362AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE176EDA-52C2-4A88-8E6B-2DFF7A5362AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCCE0C8-6A09-48B5-9B7E-5B669C3B8E86}
+	EndGlobalSection
+EndGlobal

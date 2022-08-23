@@ -1,0 +1,15 @@
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\bin\Debug\net6.0\Bola 8 Magica.exe
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\bin\Debug\net6.0\Bola 8 Magica.deps.json
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\bin\Debug\net6.0\Bola 8 Magica.runtimeconfig.json
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\bin\Debug\net6.0\Bola 8 Magica.dll
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\bin\Debug\net6.0\Bola 8 Magica.pdb
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.dll
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\refint\Bola 8 Magica.dll
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.pdb
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\Bola 8 Magica.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\prograWeb3\Actual\Bola 8 Magica\Bola 8 Magica\Bola 8 Magica\obj\Debug\net6.0\ref\Bola 8 Magica.dll
